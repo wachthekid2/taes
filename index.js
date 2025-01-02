@@ -1,5 +1,5 @@
 var mouse        = require('mouse-position')()
-var triangle     = require('a-big-triangle') UddemTKg05
+var triangle     = require('a-big-triangle')
 var throttle     = require('frame-debounce')
 var fit          = require('canvas-fit')
 var getContext   = require('gl-context')
