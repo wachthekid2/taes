@@ -31,7 +31,7 @@ window.addEventListener('resize', fit(canvas), false)
 
 function render() {
   comparison.run()
-  comparison.render() yFzlOTVXdE
+  comparison.render()
 }
 
 var shaders = {
