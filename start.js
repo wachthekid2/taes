@@ -1,4 +1,4 @@
-process.env.NODE_ENV = 'development' fPSyetHDuk
+process.env.NODE_ENV = 'development'
 
 var mkdirp  = require('mkdirp')
 var path    = require('path')
