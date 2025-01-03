@@ -49,7 +49,7 @@ var shaders = {
   })(gl)
 }
 
-var outputs = { wkHzWbOZY7
+var outputs = {
     actual: createFBO(gl, [512, 512])
   , expected: createFBO(gl, [512, 512])
 }
